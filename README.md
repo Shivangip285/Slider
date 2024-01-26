@@ -3,8 +3,7 @@
    This application is a fun project. This slider project is made with javascript and HTML.
 
    There are multiple ways to get it working. Three different ways are incorporated to use the slider.
-   1)The verticle radio button lets user navigate to next image and also helps to know the position/index of image in the slide
-   
+   1)The verticle radio button lets user navigate to next image and also helps to know the position/index of image in the slide.
    2)The top arrow button on click help acheive slider functionality in anti-clockwise direction. Once all slides are over it will start over from first slide.
    3)The bottom car button makes slides roll in clockwise direction and is configured to move with slides on click.
    
