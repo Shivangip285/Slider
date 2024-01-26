@@ -27,7 +27,7 @@ body {
     transform:translate3d();
 }
 .right{
-    transform: rotate(90deg);
+    transition: all 1s ease;
 }
 
 .frame{

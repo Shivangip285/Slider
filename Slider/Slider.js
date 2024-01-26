@@ -14,6 +14,7 @@ const setButtonColor = (index) => {for(let i=0;i<9;i++){
 right.addEventListener("click",()=>{
     setButtonColor(slideNumber);
     slider.style.transform = `translateX(-${800*((slideNumber))}px)`;
+    right.style.transform=`translateX(${100*((slideNumber))}px)`;
     slideNumber++;
     slideNumber=slideNumber%9;
 }); 
