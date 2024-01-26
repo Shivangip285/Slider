@@ -6,6 +6,9 @@
     1)The verticle radio button lets user navigate to next image and also helps to know the position/index of image in the slide.
     2)The top arrow button on click help acheive slider functionality in anti-clockwise direction. Once all slides are over it will start over from first slide.
     3)The bottom car button makes slides roll in clockwise direction and is configured to move with slides on click.
+    
+<img width="1424" alt="image" src="https://github.com/Shivangip285/Slider/assets/106912393/efed85ce-2c92-46a3-b1dd-dffef8f5f848">
+
    
 ## Running the app
 
